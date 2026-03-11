@@ -1,3 +1,70 @@
+<header>
+<h1 align="center">
+  <a href="https://github.com/jdecorte-be/famine-pe"><img src=".assets/banner.png" alt="famine-pe" ></a>
+  famine-pe
+  <br>
+</h1>
+
+<p align="center">
+  A polymorphic parasitic virus targeting 64-bit Windows PE files. Written from scratch in FASM assembly language.
+</p>
+
+<p align="center">
+<a href="#">
+    <img src="https://img.shields.io/badge/Focus-Malware%20Dev-b91c1c?logo=hackthebox&logoColor=white&labelColor=000000"
+         alt="Focus Malware Dev">
+  </a>
+<a href="#">
+    <img src="https://img.shields.io/badge/Platform-Windows%20x64-0078D6?logo=windows&logoColor=white&labelColor=000000"
+         alt="Platform Windows x64">
+  </a>
+<a href="#">
+    <img src="https://img.shields.io/badge/Type-Virus-f97316?logo=ghost&logoColor=white&labelColor=000000"
+         alt="Type Virus">
+  </a>
+<a href="#">
+    <img src="https://img.shields.io/badge/Built%20with-FASM-555?logo=intel&logoColor=white&labelColor=000000"
+         alt="Built with FASM">
+  </a>
+</p>
+
+<p align="center">
+<a href="#">
+    <img src="https://img.shields.io/badge/School-42%20Project-00BABC?logo=42&logoColor=white&labelColor=000000"
+         alt="School 42 Project">
+  </a>
+  <a href="https://github.com/jdecorte-be/famine-pe">
+    <img src="https://img.shields.io/badge/Focus-RE%20%26%20Security-critical?logoColor=white&labelColor=000000&color=F92672"
+         alt="famine-pe reverse engineering">
+  </a>
+  <a href="https://github.com/jdecorte-be/famine-pe/blob/master/LICENSE">
+    <img src="https://img.shields.io/badge/License-GPL--3.0-AE81FF?labelColor=000000"
+         alt="famine-pe license">
+  </a>
+  <a href="https://github.com/jdecorte-be/famine-pe/stargazers">
+    <img src="https://img.shields.io/github/stars/jdecorte-be/famine-pe?logo=star&logoColor=white&labelColor=000000&color=E6DB74"
+         alt="famine-pe stars">
+  </a>
+  <a href="https://github.com/jdecorte-be/famine-pe/issues">
+    <img src="https://img.shields.io/github/issues/jdecorte-be/famine-pe?logoColor=white&labelColor=000000&color=orange"
+         alt="famine-pe issues">
+  </a>
+  <a href="https://github.com/jdecorte-be/famine-pe">
+    <img src="https://img.shields.io/github/repo-size/jdecorte-be/famine-pe?logo=database&logoColor=white&labelColor=000000&color=AE81FF"
+         alt="famine-pe repo size">
+  </a>
+</p>
+<p align="center">
+  <a href="#features">Features</a> •
+  <a href="#how-it-works">How It Works</a> •
+  <a href="#prerequisites">Prerequisites</a> •
+  <a href="#building">Building</a> •
+  <a href="#usage">Usage</a> •
+  <a href="#this-will-attempt-to-infect-victimexe">This will attempt to infect 'victim.exe'</a> •
+  <a href="#license">License</a>
+</p>
+</header>
+
 ![Famine PE Virus Banner](./.assets/banner.png)
 
 A polymorphic parasitic virus targeting 64-bit Windows PE files, written from scratch in FASM assembly language. This project is intended for educational and research purposes only.
