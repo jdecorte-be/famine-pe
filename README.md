@@ -65,7 +65,6 @@
 </p>
 </header>
 
-![Famine PE Virus Banner](./.assets/banner.png)
 
 A polymorphic parasitic virus targeting 64-bit Windows PE files, written from scratch in FASM assembly language. This project is intended for educational and research purposes only.
 
